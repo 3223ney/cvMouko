@@ -1,0 +1,29 @@
+h1{
+    color:white ;
+} 
+h3 {
+    color: #03276b;
+}
+
+body{
+    background-color:white;
+}
+
+hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    /*border-width: 1Px;*/
+    width: 100%;
+}
+li{
+    color: rgb(14, 14, 14);
+}
+.entete{
+    background-color:#03276b;
+    height: 310px;
+}
+p{
+    color:white;
+}
